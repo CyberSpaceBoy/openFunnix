@@ -11,9 +11,9 @@ namespace Kernel {
         protected override void BeforeRun() {
             Console.Clear();
            Console.WriteLine("Loaded into Boot");
-            openFunnix.os.Shell.main();
+            openFunnix.os.Shell.main(); // no u need to get rewritten
         }
 
-        protected override void Run(){}
+        protected override void Run(){} 
     }
 }
