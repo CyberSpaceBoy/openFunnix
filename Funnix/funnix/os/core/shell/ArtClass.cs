@@ -1,0 +1,35 @@
+using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace openFunnix.os.core.shell
+{
+    class ArtClass
+    {
+
+        public static string friend = @"
+dHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHb
+HHP%%#%%%%%%%%%%%%%%%%#%%%%%%%#%%VHH
+HH%%%%%%%%%%#%v~~~~~~\%%%#%%%%%%%%HH
+HH%%%%%#%%%%v'        ~~~~\%%%%%#%HH
+HH%%#%%%%%%v'dHHb      a%%%#%%%%%%HH
+HH%%%%%#%%v'dHHHA     :%%%%%%#%%%%HH
+HH%%%#%%%v' VHHHHaadHHb:%#%%%%%%%%HH
+HH%%%%%#v'   `VHHHHHHHHb:%%%%%#%%%HH
+HH%#%%%v'      `VHHHHHHH:%%%#%%#%%HH
+HH%%%%%'        dHHHHHHH:%%#%%%%%%HH
+HH%%#%%        dHHHHHHHH:%%%%%%#%%HH
+HH%%%%%       dHHHHHHHHH:%%#%%%%%%HH
+HH#%%%%       VHHHHHHHHH:%%%%%#%%%HH
+HH%%%%#   b    HHHHHHHHV:%%%#%%%%#HH
+HH%%%%%   Hb   HHHHHHHV'%%%%%%%%%%HH
+HH%%#%%   HH  dHHHHHHV'%%%#%%%%%%%HH
+HH%#%%%   VHbdHHHHHHV'#%%%%%%%%#%%HH
+HHb%%#%    VHHHHHHHV'%%%%%#%%#%%%%HH
+HHHHHHHb    VHHHHHHH:%odHHHHHHbo%dHH
+HHHHHHHHboodboooooodHHHHHHHHHHHHHHHH
+HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+VHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHV
+";
+    }
+}
